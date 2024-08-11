@@ -10,10 +10,15 @@ A content-based movie recommendation system will be implemented. This system wil
 
 # Methodology
 Data Acquisition: A dataset containing movie titles and descriptions will be collected.
+
 Data Preprocessing: The collected data will undergo preprocessing steps, including cleaning, normalization, and tokenization.
+
 Feature Extraction: Text analysis techniques, such as TF-IDF (Term Frequency-Inverse Document Frequency), will be applied to extract relevant features from movie descriptions.
+
 Similarity Calculation: Cosine similarity will be used to compute the similarity between movie feature vectors.
+
 Recommendation Generation: Based on the calculated similarities, a list of recommended movies will be generated for the user.
+
 System Architecture
 
 # Evaluation
